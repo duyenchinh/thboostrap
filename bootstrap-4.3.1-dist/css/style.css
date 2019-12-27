@@ -1,0 +1,45 @@
+#box-page{
+	width: 100%;
+	margin: auto;
+}
+.container{
+	width: 100%;
+	margin-bottom: 30px;
+}
+#slide{
+	margin: auto;
+}
+
+.col-3>img{
+	overflow: hidden;
+}
+
+.container .col-5 > p{
+	font-size: 14px;
+} 
+.col-1{
+	padding: 10px;
+	margin-left: 10px;
+}
+.container>div:first-child{
+	padding: 15px;
+}
+.cost{
+	color: coral;
+}
+.container .sp{
+	border: 1px  solid #C4C4C4;
+	overflow: hidden;
+	padding: 5px;
+	
+}
+.sale{
+	background-color: #ef6144;
+	color: white;
+	text-align: center;
+	width: 70px;
+	top: -1px;
+	right: -23px;
+	float: right;
+	
+}
